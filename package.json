@@ -160,5 +160,11 @@
     "languages": "kotlin-objc",
     "type": "turbo-module",
     "version": "0.54.3"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-community/netinfo": "^11.4.1",
+    "react-native-device-info": "^14.0.4",
+    "react-native-fs": "^2.20.0"
   }
 }
